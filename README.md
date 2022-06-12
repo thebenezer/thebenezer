@@ -20,18 +20,15 @@ Here are some ideas to get you started:
 
 <h1 align='center'>
     Hi, I'm Ebe! 
-    <img align='center' src="Screenshot 2022-06-10 at 7.17.59 PM.png" width="80">
 </h1>
+## Portfolio
+Check out my portfolio [here](https://www.thebenezer.com) 🧑‍💻
+<hr>
 
 <p><em>
 Creative dev, DIY Enthusiast. I love working on challenging problems and coming up with creative solutions! 👾<br>
 Optimization is my jam. 
 </em></p>
-
-<hr>
-
-## Portfolio
-Check out my portfolio [here](https://www.thebenezer.com) 🧑‍💻
 
 <hr>
 
@@ -59,3 +56,9 @@ Check out my portfolio [here](https://www.thebenezer.com) 🧑‍💻
   </h2>
 
 <hr>
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=divu0804&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=divu0804&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" />  
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=divu0804&layout=compact&theme=cobalt&hide_border=true" />
