@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Check out my portfolio [here](https://www.thebenezer.com) 🧑‍💻
 <hr>
 
-## Portfolio
+## About Me
 
 <p><em>
 Creative dev, DIY Enthusiast. I love working on challenging problems and coming up with creative solutions! 👾<br>
