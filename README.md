@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="Screenshot 2022-06-10 at 6.46.51 PM.png">
 
 <hr>
 
@@ -24,6 +23,8 @@ Here are some ideas to get you started:
 
 Check out my portfolio [here](https://www.thebenezer.com) 🧑‍💻
 <hr>
+
+## Portfolio
 
 <p><em>
 Creative dev, DIY Enthusiast. I love working on challenging problems and coming up with creative solutions! 👾<br>
