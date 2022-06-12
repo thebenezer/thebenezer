@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
-
 <h1 align='center'>
     Hi, I'm Ebe! 
 </h1>
