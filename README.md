@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ## Portfolio
 
 Check out my portfolio [here](https://www.thebenezer.com) 🧑‍💻
-<hr>
 
 ## About Me
 
@@ -29,7 +28,6 @@ Creative dev, DIY Enthusiast. I love working on challenging problems and coming 
 Optimization is my jam. 
 </em></p>
 
-<hr>
 
 ## Skills
 
@@ -38,7 +36,6 @@ Optimization is my jam.
 </div>
 
 
-<hr>
 
 <h2 align="center">
 📫 If you're looking for a developer to add to your team, I'd love to hear from you!
@@ -54,5 +51,4 @@ Optimization is my jam.
   </p>
   </h2>
 
-<hr>
 
