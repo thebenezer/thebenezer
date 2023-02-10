@@ -24,8 +24,7 @@ Check out my portfolio [here](https://www.thebenezer.com) 🧑‍💻
 ## About Me
 
 <p><em>
-Creative dev, DIY Enthusiast. I love working on challenging problems and coming up with creative solutions! 👾<br>
-Optimization is my jam. 
+Creative dev | Three.js | webGL | ComputerGraphics. Redefining reality with code. 👾<br>
 </em></p>
 
 
