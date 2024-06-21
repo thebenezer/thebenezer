@@ -37,13 +37,13 @@ Creative dev | Three.js | webGL | ComputerGraphics. Redefining reality with code
 
 
 <h2 align="center">
-📫 If you're looking for a developer to add to your team, I'd love to hear from you!
+📫 If you have a crazy idea on your mind, I'd love to hear from you!
 <p align="center">
     <a target="_blank"href="https://www.linkedin.com/in/thebenezer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:thebenezer.mail@gmail.com?subject=Hello%20Ebe,%20From%20Github">
+    <a href="mailto:thebenezer@zeroxinfinity.com?subject=Hello%20Ebe,%20From%20Github">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;
